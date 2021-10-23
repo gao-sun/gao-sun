@@ -4,7 +4,8 @@ Love coding & design.
 
 ### Bio
 
-- Employee @Sequoia.
+- Founder, CEO [@Silverhand](https://github.com/silverhand-io).
+- Previously @Sequoia.
 - Previously @Airbnb.
 
 ### Contact
